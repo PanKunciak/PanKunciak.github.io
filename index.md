@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Witam u siebie
+Ceść! Nazywam się Damian!!
 
-You can use the [editor on GitHub](https://github.com/PanKunciak/PanKunciak.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### O mnie
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Student uczący się zaocznie informatyki na Uniwerytecie Gdańskim.
 
 ```markdown
 Syntax highlighted code block
